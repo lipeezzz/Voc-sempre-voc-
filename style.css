@@ -529,8 +529,14 @@ main #texto {
   margin-bottom: 50px;
 }
 
+main #hello-kitty {
+  width: 100%;
+  max-width: 150px;
+  margin: auto;
+}
+
 footer {
-  margin-top: 50px;
+  margin-top:;
   background-color: #fd7667;
   padding: 10px;
 }
@@ -539,6 +545,7 @@ footer p {
     margin: 20px 10px 10px 10px;
     color: #fff;
     text-align: center;
+    text-align: justify;
 }
 
 @media (min-width: 768px) {
